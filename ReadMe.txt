@@ -7,4 +7,4 @@
                                          
 =========================================
 
-duaTool, or the Disk Usage Analysis Tool, is a disk usage analyzer and visual feedback program being created towards Oculus Rift support
+duaTool, or the Disk Usage Analysis Tool, is a disk usage analyzer and visual feedback program being created towards Oculus Rift support. This is a GUI version of the program. 
